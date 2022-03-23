@@ -19,7 +19,7 @@
 
 #### 10 is invalid input for 4-Bit Signed Input (-10)
 
-<img src="https://github.com/alijawad1511/Adder-Subtractor-in-One-Unit/blob/master/images/8.jpg" width="400" />
+<img src="https://github.com/alijawad1511/Adder-Subtractor-in-One-Unit/blob/master/images/8.jpg" width="800" />
 
 ## Output Sample 1
 
