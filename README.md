@@ -19,34 +19,28 @@
 
 #### 10 is invalid input for 4-Bit Signed Input (-10)
 
-<img src="https://github.com/alijawad1511/Adder-Subtractor-in-One-Unit/blob/master/images/8.jpg" width="800" />
+<img src="https://github.com/alijawad1511/Adder-Subtractor-in-One-Unit/blob/master/images/8.jpg" width="700" />
 
 ## Output Sample 1
-
-![Sample 2](images/1.jpg)
+<img src="https://github.com/alijawad1511/Adder-Subtractor-in-One-Unit/blob/master/images/1.jpg" width="700" />
 
 ## Output Sample 2
-
-![Sample 2](images/2.jpg)
+<img src="https://github.com/alijawad1511/Adder-Subtractor-in-One-Unit/blob/master/images/2.jpg" width="700" />
 
 ## Output Sample 3
-
-![Sample 3](images/img1.jpg)
+<img src="https://github.com/alijawad1511/Adder-Subtractor-in-One-Unit/blob/master/images/3.jpg" width="700" />
 
 ## Invalid Input Detection Circuit
-
-![Sample 4](images/4.jpg)
+<img src="https://github.com/alijawad1511/Adder-Subtractor-in-One-Unit/blob/master/images/4.jpg" width="700" />
 
 ## 4-Bit Parallel Adder Circuit
-
-![Sample 5](images/5.jpg)
+<img src="https://github.com/alijawad1511/Adder-Subtractor-in-One-Unit/blob/master/images/5.jpg" width="700" />
 
 ## 2's Compliment Circuit
-
-![Sample 6](images/6.jpg)
+<img src="https://github.com/alijawad1511/Adder-Subtractor-in-One-Unit/blob/master/images/6.jpg" width="700" />
 
 ## Opertion Controller
-
 - Addition (0)
 - Subtraction (1)
-  ![Sample 7](images/7.jpg)
+<img src="https://github.com/alijawad1511/Adder-Subtractor-in-One-Unit/blob/master/images/7.jpg" width="700" />
+
