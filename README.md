@@ -19,7 +19,7 @@
 
 #### 10 is invalid input for 4-Bit Signed Input (-10)
 
-![Sample 1](8.jpg)
+![Sample 1](images/8.jpg)
 
 ## Output Sample 1
 
